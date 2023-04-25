@@ -1,4 +1,4 @@
-import helone from "../../assets/fullstackweb.png";
+import helone from "../../assets/devops-lead.png";
 import instagram from "../../assets/robos.png";
 import leader from "../../assets/arrow.png";
 import solver from "../../assets/solver.png";
@@ -11,20 +11,20 @@ export const AboutData = [
   },
   {
     images: instagram,
-    main: "Tech Enthusiast",
+    main: "Multi Cloud Specialist",
     description:
-      "Excited to know and learn new technologies irrespective of my domain",
+      "Working experience with top public cloud providers, AWS Azure and GCP",
   },
   {
     images: solver,
-    main: "Problem Solver",
+    main: "Excellent Troubleshooter",
     description:
-      "Equipped with good analytical and problem solving skills. Creative thinker",
+      "Need to handle Production environment - I will be there for you",
   },
   {
     images: leader,
-    main: "Visionary",
+    main: "Automation",
     description:
-      "A visionary with good leadership qualities. Aiming to reach new heights.",
+      "Proven skills working with different automations in the Cloud space.",
   },
 ];

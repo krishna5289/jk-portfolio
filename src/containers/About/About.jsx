@@ -53,15 +53,15 @@ const About = () => {
 
           <p className="p-text">
             Hi there, I'm <span>Jaya Krishna</span> Skilled{" "}
-            <span>Full stack web development</span> and quick learner who
-            possesses the ability to adapt with new environments quickly.
-            Looking for a challenging role in industry to utilize my skills and
-            learn. i Strongly Collaborative, team player who is proficient in
-            working with interdisciplinary teams and executing goal-oriented
-            projects. Strongly interested in obtaining a{" "}
-            <span>Software Developer</span>
-            position to work on enhancing the product experience. And
-            Well-aqcuainted with HR methodologies.
+            <span>Devops Lead</span> and tech entusiast with proven abilities 
+            and success in various implementations. Sound knowledge on the best
+            devops practices ranging from CI-CD solutions to the Machine learning 
+            implementations on cloud. Come and learn with me with my contact details
+            and follow me in my social handles.
+            Strongly interested in obtaining a{" "}
+            <span>Multi Domain Specialist</span>
+            position and the skills I have developed are my weapons to make 
+            my vision come true.
           </p>
           <div>
             <button className="portfolio-button" onClick={viewResumeHandler}>
