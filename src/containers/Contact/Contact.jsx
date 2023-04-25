@@ -40,14 +40,14 @@ const Contact = () => {
       <div className="app__contact-cards">
         <div className="app__contact-card">
           <img src={images.email} alt="email" />
-          <a href="mailto:ypraveen341@gmail.com" className="p-text">
-            ypraveen341@gmail.com
+          <a href="mailto:krishna.5289@gmail.com" className="p-text">
+            krishna.5289@gmail.com
           </a>
         </div>
         <div className="app__contact-card">
           <img src={images.mobile} alt="mobile" />
           <a href="tel:+91 7702441161" className="p-text">
-            +91 7702441161
+            +91 9148139794
           </a>
         </div>
       </div>
@@ -71,7 +71,7 @@ const Contact = () => {
               value={email}
               onChange={handleChangeInput}
               name="email"
-              mailto="ypraveen341@gmail.com"
+              mailto="krishna.5289@gmail.com"
             />
           </div>
           <div className="app__flex">

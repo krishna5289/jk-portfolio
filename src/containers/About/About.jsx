@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import portfolio from "../../assets/Praveen Ui & MERN Role.pdf";
-import me from "../../assets/myimage.png";
+import portfolio from "../../assets/Krishna-DevOps Engineer Actyv.pdf";
+import me from "../../assets/krishna.png";
 import { urlFor } from "../../client";
 import { AppWrap, MotionWrap } from "../../wrapper";
 import "./About.scss";
@@ -52,7 +52,7 @@ const About = () => {
           <h2 className="head-text">About Me</h2>
 
           <p className="p-text">
-            Hi there, I'm <span>Praveen</span> Skilled{" "}
+            Hi there, I'm <span>Jaya Krishna</span> Skilled{" "}
             <span>Full stack web development</span> and quick learner who
             possesses the ability to adapt with new environments quickly.
             Looking for a challenging role in industry to utilize my skills and

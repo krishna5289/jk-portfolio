@@ -45,7 +45,7 @@ const headerSkillVariants = {
 
 const Header = () => {
   const { text: tagText } = useTypewriter({
-    words: ["Fullstack Developer", "ReactJS Developer", "MERN STACK"],
+    words: ["Devops Lead", "AWS Architect", "Azure Admin", "Jenkins", "Kubernetes", "Terraform", "And many more..."],
     typeSpeed: 100,
     loop: false,
   });
@@ -96,7 +96,7 @@ const Header = () => {
         whileInView={scaleVariants.whileInView}
         className="app__header-circles"
       >
-        {[images.javascript, images.react, images.node].map((circle, index) => (
+        {[images.devops, images.aws, images.terraform].map((circle, index) => (
           <motion.div
             variants={headerSkillVariants}
             whileInView="visible"

@@ -17,6 +17,10 @@ import redux from "../assets/redux.png";
 import sass from "../assets/sass.png";
 import typescript from "../assets/typescript.png";
 import vue from "../assets/vue.png";
+import devops from "../assets/devops.png";
+import terraform from "../assets/terraform.png";
+import aws from "../assets/aws.png";
+
 
 import about01 from "../assets/about01.png";
 import about02 from "../assets/about02.png";
@@ -44,6 +48,7 @@ const images = {
   email,
   mobile,
   api,
+  aws,
   cpp,
   css,
   figma,
@@ -55,6 +60,7 @@ const images = {
   mu5,
   node,
   python,
+  devops,
   react,
   redux,
   sass,
@@ -79,6 +85,7 @@ const images = {
   nb,
   skype,
   spotify,
+  terraform,
 };
 
 export default images;

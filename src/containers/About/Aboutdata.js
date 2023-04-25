@@ -5,15 +5,15 @@ import solver from "../../assets/solver.png";
 export const AboutData = [
   {
     images: helone,
-    main: "Fullstack Developer",
+    main: "Devops Lead",
     description:
-      "MERN stack, well versed with React, Node.js, MongoDB, RESTful API's etc..",
+      "Vast experience working with Devops and Cloud Computing",
   },
   {
     images: instagram,
     main: "Tech Enthusiast",
     description:
-      "Love new technologies and like to explore the field AI and Image Processing.",
+      "Excited to know and learn new technologies irrespective of my domain",
   },
   {
     images: solver,

@@ -1,73 +1,85 @@
-import html from "../../assets/html.png";
 import css from "../../assets/css.png";
-import javascript from "../../assets/javascript.png";
-import chakraui from "../../assets/chakraui.png";
-import Reactimage from "../../assets/react.png";
-import mongodb from "../../assets/mongodb.png";
-import Nodejs from "../../assets/node.png";
-import expressjs from "../../assets/expressjs.png";
-import Reduxone from "../../assets/redux.png";
-import Githubone from "../../assets/git.png";
+import aws from "../../assets/aws.png";
+import azure from "../../assets/azure.png";
+import jenkins from "../../assets/jenkins.png";
+import devops from "../../assets/devops.png";
+import oracle from "../../assets/oracle.png";
+import terraform from "../../assets/terraform.png";
+import nginx from "../../assets/nginx.png";
+import sql from "../../assets/sql.png";
+import tomcat from "../../assets/tomcat.png";
+import apache from "../../assets/apache.png";
+import docker from "../../assets/css.png";
+import kubernetes from "../../assets/kube.png";
+import gcp from "../../assets/gcp.png";
 import Github from "../../assets/github.png";
-import netlif from "../../assets/netlify.png";
 import post from "../../assets/pos.png";
-import tye from "../../assets/typ.png";
+import python from "../../assets/python.png";
+
 export const skillDetails = [
   {
-    images: html,
-    description: "HTML 5",
+    images: aws,
+    description: "AWS",
   },
   {
-    images: css,
-    description: "CSS 3",
+    images: azure,
+    description: "AZURE",
   },
   {
-    images: chakraui,
-    description: "Chakra Ui",
+    images: gcp,
+    description: "GCP",
   },
   {
-    images: javascript,
-    description: "Javascript",
+    images: terraform,
+    description: "Terraform",
   },
   {
-    images: tye,
-    description: "Typescript",
+    images: jenkins,
+    description: "Jenkins",
   },
   {
-    images: Reactimage,
-    description: "React Js",
+    images: kubernetes,
+    description: "K8s",
   },
   {
-    images: Nodejs,
-    description: "Node Js",
+    images: docker,
+    description: "Docker",
   },
   {
-    images: mongodb,
-    description: "Mongo Db",
+    images: oracle,
+    description: "OCI",
   },
   {
-    images: expressjs,
-    description: "Express Js",
+    images: nginx,
+    description: "Nginx",
   },
   {
-    images: Reduxone,
-    description: "Redux",
+    images: apache,
+    description: "Apache",
   },
   {
-    images: Githubone,
-    description: "Git",
+    images: tomcat,
+    description: "Tomcat",
   },
   {
     images: Github,
     description: "GitHub",
   },
   {
-    images: netlif,
-    description: "Netlify",
+    images: sql,
+    description: "SQL",
   },
   {
     images: post,
     description: "Postman",
+  },
+  {
+    images: python,
+    description: "Python",
+  },
+  {
+    images: devops,
+    description: "Devops",
   },
 ];
 export const Experience = [

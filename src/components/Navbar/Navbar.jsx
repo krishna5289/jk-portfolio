@@ -34,10 +34,10 @@ const Navbar = () => {
   return (
     <nav className={`app__navbar ${classFloat}`}>
       <div className="app__navbar-logo">
-       <h1 style={{fontStyle:"italic"}}>Praveen Kumar 💫</h1>
+       <h1 style={{fontStyle:"italic"}}>💻Jaya Krishna💻</h1>
       </div>
       <ul className="app__navbar-links">
-        {["home", "about", "work", "skills", "contact"].map((item) => (
+        {["home", "about", "skills", "contact"].map((item) => (
           <li
             key={`link-${item}`}
             className={`app__flex p-text ${active === item ? "active" : ""}`}

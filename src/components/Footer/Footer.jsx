@@ -58,7 +58,7 @@ const Footer = () => {
           whileInView="view"
         >
           <a
-            href="https://www.linkedin.com/in/praveen-yadav-882630169/"
+            href="https://www.linkedin.com/in/jaya-krishna-p/"
             target="_blank"
             rel="noreferrer"
             className="app__flex"
@@ -72,7 +72,7 @@ const Footer = () => {
           whileInView="view"
         >
           <a
-            href="https://www.facebook.com/kpraveen.yadav.71/"
+            href="https://www.facebook.com/pandillapalli/"
             target="_blank"
             rel="noreferrer"
             className="app__flex"
@@ -86,7 +86,7 @@ const Footer = () => {
           whileInView="view"
         >
           <a
-            href="https://www.instagram.com/01_praveen_kumar_01/"
+            href="https://www.instagram.com/callmekrishh/"
             target="_blank"
             rel="noreferrer"
             className="app__flex"
@@ -124,7 +124,7 @@ const Footer = () => {
           variants={childCopyVariant}
           whileInView="view"
         >
-          &copy; 2022 Praveen Kumar
+          &copy; 2023 Krishna.P
         </motion.p>
 
         <motion.p
