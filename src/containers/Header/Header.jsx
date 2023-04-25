@@ -62,7 +62,7 @@ const Header = () => {
             <span>👋</span>
             <div style={{ marginLeft: 20 }}>
               <p className="p-text">Hello, I am</p>
-              <p className="head-text">Praveen</p>
+              <p className="head-text">Krishna</p>
             </div>
           </div>
           <div className="tag-cmp app__flex">
